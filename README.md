@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for new roles as a **Fullstack Developer**
 
-- 📫 How to reach me **siddhartha.d101@gmail.com**
+- 📫 Email me @**siddhartha.d101@gmail.com**
 
 - ⚡ Fun fact **I love Photography! Instagram: @siddharthadas_**
 
