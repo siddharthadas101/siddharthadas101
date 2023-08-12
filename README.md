@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a **Fullstack Developer** in the  **Enterprise Fintech SaaS** Domain
 
-- 🌱 I’m currently learning **Angular**
+<!-- - 🌱 I’m currently learning **Angular** -->
 
 - 🤝 I’m looking for new roles as a **Fullstack Developer**
 
