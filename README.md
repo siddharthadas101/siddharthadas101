@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Siddhartha Das</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working at **HighRadius Technologies**
+- 🔭 I’m currently working as a **Fullstack Developer** in the  **Enterprise Fintech SaaS** Domain
 
 - 🌱 I’m currently learning **Angular**
 
