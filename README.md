@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Siddhartha Das</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working as a **Fullstack Developer** in the  **Enterprise Fintech SaaS** Domain
+- 🔭 I’m currently working as a **Fullstack Developer** in the  **Enterprise Software** Domain
 
-<!-- - 🌱 I’m currently learning **Angular** -->
+- 🌱 I’m currently learning **Ruby** & **ReactJS**
 
-- 🤝 I’m looking for new roles as a **Fullstack Developer**
+- 🤝 I’m looking for roles as a **Fullstack Developer**, remote roles are all the better!
 
 - 📫 Email me @**siddhartha.d101@gmail.com**
 
-- ⚡ Fun fact **I love Photography! Instagram: @siddharthadas_**
+- ⚡ Fun fact **I love Photography! Instagram: <a href="https://www.instagram.com/siddharthadas_/" target="blank">@siddharthadas_</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
