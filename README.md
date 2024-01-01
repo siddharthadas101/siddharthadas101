@@ -12,17 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Siddhartha Das</h1>
+## ☝🏼 About Me:
 
-- 🔭 I’m currently working as a **Fullstack Developer** in the  **Enterprise Software** Domain
+🔭 **I’m currently working:**  <br>
+As a **Fullstack Developer** in the **Enterprise Software** Domain. <br><br>
+🌱 **I’m currently learning:**  <br>
+**Ruby** & **ReactJS** <br><br>
+🤝 **I'm open to:**  <br>
+Remote roles as a **Fullstack/Backend Developer**<br><br>
+📫 **Email me @**  <br>
+**siddhartha.d101@gmail.com** <br><br>
+⚡ **Fun fact:**  <br>
+I love Photography! Instagram: **<a href="https://www.instagram.com/siddharthadas_/" target="blank">@siddharthadas_</a>**
 
-- 🌱 I’m currently learning **Ruby** & **ReactJS**
-
-- 🤝 I’m looking for roles as a **Fullstack Developer**, remote roles are all the better!
-
-- 📫 Email me @**siddhartha.d101@gmail.com**
-
-- ⚡ Fun fact **I love Photography! Instagram: <a href="https://www.instagram.com/siddharthadas_/" target="blank">@siddharthadas_</a>**
 
 ## 👾 Platforms:
 <p align="left">
